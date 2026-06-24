@@ -1,27 +1,3 @@
-# BTC-Intel: Master Prompt for Claude Opus via Claude Code
-## Give this entire file as your first message in a Claude Code session
-
----
-
-## BEFORE YOU START — READ THIS (For the Teammate Using Claude Code)
-
-**Model to use:** Claude Opus (latest available — claude-opus-4-6 or higher in Claude Code)
-
-**How to use this prompt:**
-1. Clone the repository (repo name suggested below)
-2. Open Claude Code in the repo directory: `claude` in terminal
-3. Paste this ENTIRE file as your first message
-4. Let Opus run — it will read all MD files, search the web for papers, and produce 3 output files
-5. Do NOT interrupt mid-run — Opus works autonomously on complex tasks
-6. Expected runtime: 20–40 minutes for the full output
-
-**Why Opus for this task:**
-Opus 4.6+ has adaptive thinking (thinks longer on hard problems automatically),
-superior long-context performance (handles all 7 MD files simultaneously),
-and sustained effort on complex synthesis tasks without losing coherence.
-It also has web search capability in Claude Code — use it to find new research papers.
-
-**Repo name suggestion:** `btc-intel-research` or `wallet-blacklist-intelligence`
 
 **What goes in the repo before cloning:**
 ```
